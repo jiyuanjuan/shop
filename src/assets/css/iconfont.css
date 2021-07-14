@@ -1,0 +1,28 @@
+ @font-face {
+  font-family: "iconfont"; 
+  src: url('iconfont.ttf?t=1623220338931') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-leimupinleifenleileibie:before {
+  content: "\e7f9";
+}
+
+.icon-shouye:before {
+  content: "\e61e";
+}
+
+.icon-ziyuan:before {
+  content: "\e620";
+}
+
+.icon-wode:before {
+  content: "\e603";
+}
